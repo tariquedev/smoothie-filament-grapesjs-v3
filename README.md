@@ -5,7 +5,7 @@
 [![Software License][ico-license]][link-license]
 
 
-![image](https://github.com/dotswan/filament-grapesjs-v3/assets/20874565/2ad36e55-4d56-42f6-8946-b894dab5d4fa)
+![image](https://github.com/Dotswan/filament-grapesjs-v3/assets/20874565/2ad36e55-4d56-42f6-8946-b894dab5d4fa)
 
 
 ## Introduction 
@@ -30,7 +30,7 @@ This package extends Filament to include a field type called Grapesjs, leveragin
 You can easily install the package via Composer:
 
 ```bash
-composer require dotswan/filament-grapesjs-v3
+composer require tarique/smoothie-filament-grapesjs-v3
 ```
 
 ## Basic Usage
@@ -42,7 +42,7 @@ Resource file:
 namespace App\Filament\Resources;
 use Filament\Resources\Resource;
 use Filament\Resources\Forms\Form;
-use Dotswan\FilamentGrapesjs\Fields\GrapesJs;
+use Tarique\FilamentGrapesjs\Fields\GrapesJs;
 ...
 
 class FilamentResource extends Resource
@@ -65,7 +65,7 @@ class FilamentResource extends Resource
 
 ## Security
 
-We take security seriously. If you discover any bugs or security issues, please help us maintain a secure project by reporting them through our [`GitHub issue tracker`][link-github-issue]. You can also contact us directly at [tech@dotswan.com](mailto:tech@dotswan.com).
+We take security seriously. If you discover any bugs or security issues, please help us maintain a secure project by reporting them through our [`GitHub issue tracker`][link-github-issue]. You can also contact us directly at [tariquehasan19@gmail.com](mailto:tariquehasan19@gmail.com).
 
 ## Contribution
 

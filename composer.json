@@ -1,22 +1,22 @@
 {
-  "name": "dotswan/filament-grapesjs-v3",
+  "name": "tarique/smoothie-filament-grapesjs-v3",
   "description": "",
   "keywords": [
-    "dotswan",
+    "tarique",
     "laravel",
     "filament-grapesjs-v3"
   ],
-  "homepage": "https://github.com/dotswan/filament-grapesjs-v3",
+  "homepage": "https://github.com/tariquedev/smoothie-filament-grapesjs-v3",
   "support": {
-    "issues": "https://github.com/dotswan/filament-grapesjs-v3/issues",
-    "source": "https://github.com/dotswan/filament-grapesjs-v3"
+    "issues": "https://github.com/tariquedev/smoothie-filament-grapesjs-v3/issues",
+    "source": "https://github.com/tariquedev/smoothie-filament-grapesjs-v3"
   },
   "license": "MIT",
   "authors": [
     {
-      "name": "Dotswan",
-      "email": "tech@dotswan.com",
-      "role": "Developer"
+      "name": "Tarique Hasan",
+      "email": "tariquehasan19@gmail.com",
+      "role": "Full Stack Engineer"
     }
   ],
   "require": {
@@ -65,10 +65,10 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Dotswan\\FilamentGrapesjs\\FilamentGrapesJsServiceProvider"
+        "Tarique\\FilamentGrapesjs\\FilamentGrapesJsServiceProvider"
       ],
       "aliases": {
-        "FilamentGrapesjs": "Dotswan\\FilamentGrapesjs\\Facades\\FilamentGrapesjs"
+        "FilamentGrapesjs": "Tarique\\FilamentGrapesjs\\Facades\\FilamentGrapesjs"
       }
     }
   },

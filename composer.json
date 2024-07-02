@@ -39,13 +39,13 @@
   },
   "autoload": {
     "psr-4": {
-      "Dotswan\\FilamentGrapesjs\\": "src/",
-      "Dotswan\\FilamentGrapesjs\\Database\\Factories\\": "database/factories/"
+      "Tarique\\FilamentGrapesjs\\": "src/",
+      "Tarique\\FilamentGrapesjs\\Database\\Factories\\": "database/factories/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Dotswan\\FilamentGrapesjs\\Tests\\": "tests/"
+      "Tarique\\FilamentGrapesjs\\Tests\\": "tests/"
     }
   },
   "scripts": {

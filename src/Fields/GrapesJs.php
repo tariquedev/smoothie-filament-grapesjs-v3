@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-namespace Dotswan\FilamentGrapesjs\Fields;
+namespace Tarique\FilamentGrapesjs\Fields;
 
 use Filament\Forms\Components\Field;
 use Filament\Forms\Concerns\HasStateBindingModifiers;
-use Dotswan\FilamentGrapesjs\Fields\Concerns\InteractsWithTools;
+use Tarique\FilamentGrapesjs\Fields\Concerns\InteractsWithTools;
 
 class GrapesJs extends Field
 {

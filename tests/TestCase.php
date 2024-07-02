@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Dotswan\FilamentGrapesJs\Tests;
+namespace Tarique\FilamentGrapesjs\Tests;
 
 use BladeUI\Heroicons\BladeHeroiconsServiceProvider;
 use BladeUI\Icons\BladeIconsServiceProvider;
@@ -20,7 +20,7 @@ use Illuminate\Database\Eloquent\Factories\Factory;
 use Livewire\LivewireServiceProvider;
 use Orchestra\Testbench\TestCase as Orchestra;
 use RyanChandler\BladeCaptureDirective\BladeCaptureDirectiveServiceProvider;
-use Dotswan\FilamentGrapesJs\FilamentGrapesJsServiceProvider;
+use Tarique\FilamentGrapesjs\FilamentGrapesJsServiceProvider;
 
 class TestCase extends Orchestra
 {

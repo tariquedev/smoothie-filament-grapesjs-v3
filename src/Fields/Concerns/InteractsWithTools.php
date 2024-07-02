@@ -1,6 +1,6 @@
 <?php
 
-namespace Dotswan\FilamentGrapesjs\Fields\Concerns;
+namespace Tarique\FilamentGrapesjs\Fields\Concerns;
 
 use Closure;
 

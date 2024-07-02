@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Dotswan\FilamentGrapesjs;
+namespace Tarique\FilamentGrapesjs;
 
 use Filament\Support\Assets\Js;
 use Filament\Support\Assets\Css;

@@ -27,7 +27,7 @@ class FilamentGrapesJsServiceProvider extends PackageServiceProvider
             ->hasInstallCommand(function (InstallCommand $command): void {
                 $command
                     ->publishConfigFile()
-                    ->askToStarRepoOnGitHub('dotswan/filament-grapesjs-v3');
+                    ->askToStarRepoOnGitHub('tarique/smoothie-filament-grapesjs-v3');
             });
 
         $configFileName = $package->shortName();
@@ -61,7 +61,7 @@ class FilamentGrapesJsServiceProvider extends PackageServiceProvider
 
     protected function getAssetPackageName(): ?string
     {
-        return 'dotswan/filament-grapesjs-v3';
+        return 'tarique/smoothie-filament-grapesjs-v3';
     }
 
     /**
